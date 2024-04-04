@@ -17,9 +17,9 @@ _Cybernetics Engineer by trade, Software developer in practice._
 
 ## About me
 
-I studied [Cybernetics](https://www.gkm.uni-stuttgart.de/techkyb) at the University of Stuttgart *(2006 - 2013)* and am currently working as a self-employed Software Developer. I recently (February 2024) moved to Aalen which is why I am currently looking for new opportunities in the area. 
+I studied [Cybernetics](https://www.gkm.uni-stuttgart.de/techkyb) at the University of Stuttgart *(2006 - 2013)* and I am currently working as a self-employed Software Developer. I recently (February 2024) moved to Aalen which is why I am looking for new opportunities in the area. 
 
-I've always been interested in software development (since qbasic on a 386 machine) and have been working full time as a developer for the last 10 years, focusing on web development leaning towards the backend, but comfortable in the various frontend frameworks (Angular, React) as well. I am a quick learner and have a strong interest in new technologies and all things internet. My programming and interests are heavily influenced by my studies of system theory, control theory and signal processing. I have a strong mathematical background and am comfortable with linear algebra, optimization and statistics.
+I've always been interested in software development (since qbasic on a 386 machine) and have been working full time as a developer for the last 10 years, focusing on web development leaning towards the backend, but well-versed in various frontend frameworks (Angular, React) as well. I am a quick learner, adept with new technologies and all things internet. My programming is heavily influenced by my studies of system theory, control theory and signal processing. I have a solid mathematical background and I am comfortable with linear algebra, optimization and statistics.
 
 I also have a strong interest in 3D technologies and have been working on a few projects in my free time ([Unity3D](https://unity3d.com) for [Fromparts](https://fromparts.de), an engineering game) and used [three.js](https://threejs.org) for various web based 3D configurators, and I'm fascinated by the capabilities of GPGPU programming.
 
@@ -32,9 +32,10 @@ I also have a strong interest in 3D technologies and have been working on a few 
 <br>
 
 **CTO / Full stack developer** @ Literacy GmbH *(2021 - present)*
-  - Developing, deploying and maintaining our own product, [Annex Tracker](https://annex-tracker.de) in a challenging environment with high security requirements (Mergin&Acquisition lawyers)
+  - Developing, deploying and maintaining our own product, [Annex Tracker](https://annex-tracker.de) in a challenging environment with high security requirements (Merging & Acquisition lawyers)
   - On-premise deployment for customers with high security requirements
-  - Architecting and implementing new features
+  - Deploying and maintaining the product on our own cloud infrastructure
+  - Architecting and implementing new features, including discovery and discussion with customers
   - **_Technologies used:_** Angular, Docker, LibreOffice via Python, SQLite
 <br>
 
