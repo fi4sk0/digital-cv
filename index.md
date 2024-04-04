@@ -12,13 +12,14 @@ _Cybernetics Engineer by trade, Software developer in practice._
 | 73430 Aalen |
 | [0176 62020463](tel:+4917662020463) |
 | [hello@timomaul.de](mailto:hello@timomaul.de) |
+| [timomaul.de](https://timomaul.de) |
 | 39 years old |
 
 ## About me
 
 I studied [Cybernetics](https://www.gkm.uni-stuttgart.de/techkyb) at the University of Stuttgart *(2006 - 2013)* and am currently working as a self-employed Software Developer. I recently (February 2024) moved to Aalen which is why I am currently looking for new opportunities in the area. 
 
-I've always been interested in software development (since qbasic on a 386 machine) and have been working full time as a developer for the last 10 years, focusing on web development leaning towards the backend, but comfortable in the various frontend frameworks (Angular, React) as well. I am a quick learner and have a strong interest in new technologies and all things internet. 
+I've always been interested in software development (since qbasic on a 386 machine) and have been working full time as a developer for the last 10 years, focusing on web development leaning towards the backend, but comfortable in the various frontend frameworks (Angular, React) as well. I am a quick learner and have a strong interest in new technologies and all things internet. My programming and interests are heavily influenced by my studies of system theory, control theory and signal processing. I have a strong mathematical background and am comfortable with linear algebra, optimization and statistics.
 
 I also have a strong interest in 3D technologies and have been working on a few projects in my free time ([Unity3D](https://unity3d.com) for [Fromparts](https://fromparts.de), an engineering game) and used [three.js](https://threejs.org) for various web based 3D configurators, and I'm fascinated by the capabilities of GPGPU programming.
 
